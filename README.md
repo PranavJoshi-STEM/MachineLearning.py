@@ -1,7 +1,7 @@
 # MachineLearning
 
 # GOAL:
-This was a project I created in grade 7 during the spring break.  My goal for this project was to create a modular and advanced program which utilizes machine learning.
+This was a project I created in grade 8 during the spring break.  My goal for this project was to create a modular and advanced program which utilizes machine learning.
 
 # HOW I CREATED IT:
 This needs Pygame (available via "sudo pip3 install pygame") and Python 3 to run.  I created the machine-learning system myself.
